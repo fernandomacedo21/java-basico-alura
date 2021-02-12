@@ -1,3 +1,4 @@
+package br.com.fernando.estudos;
 
 public class TestaVariaveis {
 
